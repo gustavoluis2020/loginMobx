@@ -4,6 +4,11 @@ A new Flutter project.
 
 ## Getting Started
 
+
+
+<img width="269" height="469" alt="Captura de tela 2026-01-10 155306" src="https://github.com/user-attachments/assets/5f9438e9-3662-4150-8e8d-5cf54800dd24" />
+
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
